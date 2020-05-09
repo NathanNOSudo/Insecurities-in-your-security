@@ -1,4 +1,4 @@
-# Inseceurities-in-your-security
+# Insecurities-in-your-security
 Linux operating systems preffered, I personally recommend certain distros for learning digital security:
 Kali Linux  
 ParrotOS
